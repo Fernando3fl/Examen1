@@ -1,0 +1,41 @@
+#menu{
+background-color:#06C5DC;
+	width:15%;
+	color:#FFF;
+	float:left;
+
+}
+a{
+	color: #FFF;
+	font-size: large;
+	text-decoration: none;
+	padding: 5px;
+	
+
+}
+li{
+	margin: 5px;
+	border: dotted 2px;
+	list-style: none;
+}
+li:hover {
+	background: #E7FBFB;
+	
+}
+a:hover {
+	color:#051743;
+}
+h1{
+	margin: auto;
+	text-align: center;
+	padding: 10px;
+	background:#1E41D9;
+	color: #FFF;
+}
+.h1{
+	margin: auto;
+	text-align: center;
+	padding: 15px;
+	background:#0A3152;
+	color: #FDFAFA;
+}
